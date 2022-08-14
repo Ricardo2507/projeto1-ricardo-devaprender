@@ -1,1 +1,2 @@
 Olá, meu nome é Ricardo!
+Vamos ver se melhorei em Git.
